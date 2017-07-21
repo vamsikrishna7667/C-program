@@ -45,4 +45,4 @@ void processColor(char c){
 			else
 				printf("You entered an unrecognized color. Try again.\n");
 }
-//sample
+//samples
